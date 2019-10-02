@@ -1,0 +1,2 @@
+# ghcfun
+ghc test
